@@ -40,7 +40,8 @@
 
 
 Приведите графические иллюстрации:
-![Концептуализация](img/Expert.jpg)
+![Flowchart+Diagram-1](https://github.com/user-attachments/assets/a02d7b5b-1113-443d-aaf8-3db1522517c8)
+
 
 ## Принцип реализации системы
 
